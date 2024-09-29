@@ -1,12 +1,14 @@
 ---
-title: 'My First Blog Post'
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'Este es mi primer blog'
 pubDate: 2022-07-01
 description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+author: 'Autor #1'
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["astro", "éxitos", "comunidad"]
+previmg: 'https://1.bp.blogspot.com/-H0obwPWWB2Q/VjcgdxRG6bI/AAAAAAAAAAg/V4UiIbUHnB0/s640/Pug_portrait.jpg'
 ---
 
 # My First Blog Post
